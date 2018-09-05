@@ -17,3 +17,7 @@ Also see:
 * Repository for talk on "Data science is going to change the way we teach
   statistics": https://github.com/matthew-brett/psy-data-sci - see [PDF of
   slides](https://github.com/matthew-brett/psy-data-sci/blob/master/psy_data_sci_slides.pdf)
+
+Unless otherwise specified, all text copyright 2017-18 Matthew Brett, covered
+by Creative Commons By license version 4 - [CC-by
+4.0](https://creativecommons.org/licenses/by/4.0).
