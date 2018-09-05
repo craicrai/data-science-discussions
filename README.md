@@ -1,7 +1,14 @@
 # Notes and discussions on data science
 
-Various notes, pitches, discussions about data science and data science
+Various notes, pitches and discussions about data science and data science
 teaching.
+
+Most files are in Markdown format, with PDFs built using rules in the
+`Makefile`.
+
+* [What is data science?](ds_what_is_it.pdf).
+* [Data science and statistics teaching](ds_and_statistics.pdf).
+* [Bibliography file for data science](data_science.bib).
 
 Also see:
 
