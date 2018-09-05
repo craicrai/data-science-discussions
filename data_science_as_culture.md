@@ -4,7 +4,7 @@ title: "Data science as culture"
 bibliography: data_science.bib
 ---
 
-# What is data science?
+# The origins of data science
 
 The fathers of data science are the statisticians John Tukey (see
 @tukey1962future, @donoho201550) and Leo Breimam [@breiman2001statistical].
@@ -28,20 +28,22 @@ analysis as [@breiman2001statistical]:
 > is.
 > (e) Computers are an indispensable partner.
 
-I believe that the term "data science" is another name for the culture of data
-analysis that both Tukey and Breiman are describing.  This new term has
-emerged now because this culture has shown itself to be successful in adapting
-to a wide range of difficult data analysis problems.  As Breiman implies in
-his point (e) above, part of this success has been because there are a much
-larger number of scientists who can write valid and effective code.  This in
-turn is due to the success of open source scientific computing, and with it,
-the increasing use of standard tools to improve code quality.
+# Not a field but a culture
 
-I think we are going to see a rather rapid change in data analysis across many
-fields, as the benefits of data science methods become more obvious.  If we
-are early in this movement, we will have a chance to reap these benefits,
-making us more effective at research, and more attractive as a teaching
-university, for future employment in industry and research.
+The term "data science" is another name for the culture of data analysis that
+both Tukey and Breiman are describing.  The term has emerged now because this
+culture has shown itself to be successful in adapting to a wide range of
+difficult data analysis problems.  As Breiman implies in his point (e) above,
+part of this success has been because there are a much larger number of
+scientists who can write valid and effective code.  This in turn is due to the
+success of open source scientific computing, and with it, the increasing use of
+standard tools to improve code quality.
+
+We are going to see rapid change in data analysis across many fields, as the
+benefits of data science methods become more obvious.  If we are early in this
+movement, we will have a chance to reap these benefits, making us more
+effective at research, and more attractive as a teaching university, for future
+employment in industry and research.
 
 # Recruiting for data science
 

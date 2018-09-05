@@ -1,6 +1,6 @@
 ---
 # YAML metadata
-title: "Where is data science?"
+title: "Where will data science go?"
 bibliography: data_science.bib
 nocite: |
   @tukey1962future, @donoho201550, @wilson2014best
@@ -8,9 +8,8 @@ nocite: |
 
 The term *data science* has come to stand for many different *movements* in
 science, all loosely related to computing.  I believe data science is itself a
-movement, rather than a science.  If it is a movement, where are we in the
-trajectory of that movement, and where will we end up?  That is the question I
-am posing as "where is data science?".
+movement, or a culture, rather than a branch of learning.  If it is a movement,
+where are we in the trajectory of that movement, and where will we end up?
 
 # Movements within "data science"
 
@@ -202,9 +201,9 @@ https://doi.org/10.5281/zenodo.495360)
 [comment]: <> (Related: I suspect that funding bodies mis-diagnosed the
 success of the human genome project as a simple success of large scale funding
 {big science}.  Rather, my suspicion is that the success of the project was
-largely as a result of the strong pressure for increased quality of
-collaboration between the labs, leading to advances in working process.  These
-are the kind of advances that arise from agile / lean methodology.)
+the result of the strong pressure for increased quality of collaboration
+between the labs, leading to advances in working process.  These are the kind
+of advances that arise from agile / lean methodology.)
 
 # Where is data science?
 
@@ -221,11 +220,6 @@ summarized into three primary themes:
   influx of agile / lean methodology from software development via open
   source.
 
-[comment]: <> (S: This corresponds with my feeling; unfortunately, I fear that
-the first item above often corrupts the other more noble items.  E.g., I think
-students should be learning much more of #3, but their drive and focus are
-largely on #1.)
-
 ## Where will we go?
 
 We can answer the question of where we are with reference to the end point of
@@ -233,12 +227,9 @@ these movements above.  I think we are going to see the following:
 
 * it will be standard to teach analysis methods using code in a high-level
   language such as Python;
+
 * increased familiarity with code and data analysis will lead to a rapid
   diffusion of new data analysis methods across disciplines;
-  understanding will 
-
-[comment]: <> (S: This is already visible; unfortunately mostly in the form of
-"black box science".)
 
 * widespread recognition of the central role of software in data analysis.
   Researchers and students will engage directly with software - they will
