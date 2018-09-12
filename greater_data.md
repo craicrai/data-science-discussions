@@ -1,7 +1,7 @@
 ---
 # YAML metadata
 title: "Where will data science go?"
-bibliography: data_science.bib
+bibliography: data-science-bib/data_science.bib
 nocite: |
   @tukey1962future, @donoho201550, @wilson2014best
 ---

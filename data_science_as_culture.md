@@ -1,7 +1,7 @@
 ---
 # YAML metadata
 title: "Data science as culture"
-bibliography: data_science.bib
+bibliography: data-science-bib/data_science.bib
 ---
 
 # The origins of data science

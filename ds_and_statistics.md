@@ -1,7 +1,7 @@
 ---
 # YAML metadata
 title: "Data science and statistics"
-bibliography: data_science.bib
+bibliography: data-science-bib/data_science.bib
 geometry: margin=2cm
 fontsize: 12pt
 ---
