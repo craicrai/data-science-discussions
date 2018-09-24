@@ -7,7 +7,7 @@ bibliography: ../data-science-bib/data_science.bib
 
 # Handout
 
-https://github.com/matthew-brett/data-science-discussions/berkeley-talk/data_science_as_culture_handout.pdf
+https://github.com/matthew-brett/data-science-discussions/blob/master/berkeley-talk/data_science_as_culture_handout.pdf
 
 # An orientation
 
@@ -314,6 +314,6 @@ https://arxiv.org/abs/1806.06145
 Yes, it's the end of the talk.
 
 All material for this talk at:
-https://github.com/matthew-brett/data-science-discussions/berkeley-talk
+https://github.com/matthew-brett/data-science-discussions/tree/master/berkeley-talk
 
 # References
