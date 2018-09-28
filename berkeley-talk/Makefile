@@ -10,7 +10,6 @@ SOURCE=data_science_as_culture
 slides: $(SOURCE).md
 	gpp -H $(SOURCE).md | pandoc \
 	    --filter pandoc-citeproc \
-	    --metadata suppress-bibliography=true \
 	    -t beamer \
 	    -o $(SOURCE)_slides.pdf
 

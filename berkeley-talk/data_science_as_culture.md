@@ -3,6 +3,9 @@
 title: Data science is a culture not a science
 author: Matthew Brett
 bibliography: ../data-science-bib/data_science.bib
+<#ifndef HANDOUT>
+suppress-bibliography: true
+<#endif>
 ---
 
 # Handout
