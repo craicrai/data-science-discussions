@@ -182,7 +182,7 @@ where *X* includes:
 * Impacts of Stratospheric Change (Tukey, 1976);
 * Adjustment of the U.S. Census (Ericksen et al, 1989; Tukey, 1990).
 
-[@hoaglin2003tukey]
+[@hoaglin2003tukey] (see article for references).
 
 # Leo Breiman and culture in statistics
 
