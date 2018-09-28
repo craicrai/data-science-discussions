@@ -53,7 +53,7 @@ See "A very short history of data science"
 
 # But in modern use
 
-\centerline{\includegraphics[width=5in]{images/sexiest_job.png}}
+![](images/sexiest_job.png){width=100%}
 
 [@davenport2012data]
 
@@ -245,7 +245,7 @@ https://en.wikipedia.org/wiki/John_Chambers_(statistician)
 
 # Chambers and consulting
 
-\centerline{\includegraphics[width=4in]{images/chambers_phone_calls.png}}
+![](images/chambers_phone_calls.png){width=100%}
 
 [@chambers1999computing]
 
