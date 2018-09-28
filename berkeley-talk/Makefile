@@ -1,17 +1,23 @@
 default: slides
 
+all: slides handout
+
 SOURCE=data_science_as_culture
 
-slides: $(SOURCE).md
-	pandoc --filter pandoc-citeproc -t beamer -s $(SOURCE).md -o $(SOURCE)_slides.pdf
+# Need gpp for conditional stuff
+# `brew install gpp` on macOS
 
-# Need context engine
-# On Mac, install MacTex (via homebrew cask), then install context via texlive
-# sudo tlmgr update --self
-# sudo tlmgr install context
+slides: $(SOURCE).md
+	gpp -H $(SOURCE).md | pandoc \
+	    --filter pandoc-citeproc \
+	    --metadata suppress-bibliography=true \
+	    -t beamer \
+	    -o $(SOURCE)_slides.pdf
 
 handout: $(SOURCE).md
-	pandoc --filter pandoc-citeproc -s $(SOURCE).md -t context -o $(SOURCE)_handout.pdf
+	gpp -H -DHANDOUT=1 $(SOURCE).md | pandoc \
+	    --filter pandoc-citeproc \
+	    -o $(SOURCE)_handout.pdf
 
 clean:
 	rm *.pdf *.html

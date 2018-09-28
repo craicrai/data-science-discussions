@@ -316,4 +316,6 @@ Yes, it's the end of the talk.
 All material for this talk at:
 https://github.com/matthew-brett/data-science-discussions/tree/master/berkeley-talk
 
+<#ifdef HANDOUT>
 # References
+<#endif>
